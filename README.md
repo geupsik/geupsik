@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @geupsik
+- 👀 I’m interested in geupsik
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: moon7959@kakao.com
